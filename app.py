@@ -7,7 +7,7 @@ import streamlit as st
 from PIL import Image
 
 
-image = Image.open('tmp/pdf-to-txt.png')
+image = Image.open('temp/pdf-to-txt.png')
 st.set_page_config(page_title='PDF Converter', page_icon=image, layout="wide", initial_sidebar_state="auto", menu_items=None)
 
 # make sidebar
