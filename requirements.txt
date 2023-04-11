@@ -1,0 +1,2 @@
+streamlit==1.21.0
+PyMuPDF==1.21.1
